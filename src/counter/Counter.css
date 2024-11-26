@@ -1,0 +1,23 @@
+.counter-container{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.count-display{
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.counter-button{
+    width: 80px;
+    height: 30px;
+    font-size: medium;
+    font-weight:lighter;
+    margin: 0px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(187, 207, 245);
+    cursor: pointer;
+}
