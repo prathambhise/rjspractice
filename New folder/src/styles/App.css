@@ -1,0 +1,20 @@
+.body-background{
+  height: 100vh;
+background-color: rgb(252, 223, 253);
+text-align: center;
+}
+
+.card {
+width: 80%;
+height: 80%;
+border-radius: 10px;
+padding: 2.5%;
+margin: 10px;
+text-align: left;
+display: inline-block;
+background-color: rgb(255, 255, 255);
+}
+.card a{
+color: blue;
+font-size: 20px;
+}
